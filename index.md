@@ -8,7 +8,7 @@ A visualization that follows the #feesmustfall protests that took place in South
 
 [feesmustfall](/feesmustfall)
 
-<img src="images/feesmust.png?raw=true"/>
+<img src="images/feesmust.png?raw=true" width="600" height="400"/>
 
 
 
