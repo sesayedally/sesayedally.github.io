@@ -4,6 +4,9 @@
 
 Excel, R and Tableau 
 
+A visualization that follows the #feesmustfall protests that took place in South Africa
+
+<img src="images/feesmust.png?raw=true"/>
 
 
 [Project 1 Title](/sample_page)
