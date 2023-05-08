@@ -7,6 +7,9 @@ Excel, R and Tableau. A visualization that follows the #feesmustfall protests th
 
 <img src="images/feesmust.png?raw=true" width="600" height="350"/>
 
+
+
+
 ---
 
 [Video Game Console Sales](/consolestats.md)
