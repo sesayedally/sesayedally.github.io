@@ -6,4 +6,4 @@
 The original dataset provided was free from Kaggle and scraped from VGChartz. I used Python, specifically Pandas and Seaborn to perform the analysis. Please visit the link below to read the article.
 
 
-https://www.linkedin.com/pulse/numbers-game-how-quality-video-games-defy-quantity-sayed-ally
+[Link to article on LinkedIn](https://www.linkedin.com/pulse/numbers-game-how-quality-video-games-defy-quantity-sayed-ally)
