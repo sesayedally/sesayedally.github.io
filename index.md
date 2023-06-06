@@ -1,5 +1,12 @@
 ## Portfolio
 
+[Quantity vs Quality in Video Games](/videogamesales)
+
+Python analysis to investigate global sales figures of video game publishers
+
+<img src="images/vgs.png?raw=true" width="400" height="300"/>
+
+
 ---
 [feesmustfall](/feesmustfall)
 
