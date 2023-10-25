@@ -1,5 +1,7 @@
 ## Portfolio
+
 [World Clock - React](/worldclock)
+
 Simple React app to display different timezones
 
 
@@ -9,20 +11,10 @@ Simple React app to display different timezones
 
 Python analysis to investigate global sales figures of video game publishers
 
-<img src="images/vgs.png?raw=true" width="550" height="300"/>
-
-
 ---
 [feesmustfall](/feesmustfall)
 
 Excel, R and Tableau. A visualization that follows the #feesmustfall protests that took place in South Africa
-
-<img src="images/feesmust.png?raw=true" width="400" height="300"/>
-
-<br>
-<br>
-<br>
-
 
 ---
 
@@ -30,7 +22,7 @@ Excel, R and Tableau. A visualization that follows the #feesmustfall protests th
 
 Tableau Visualization to show worldwide sales data for video game consoles 
 
-<img src="images/consolesales.png?raw=true" width="400" height="300"/>
+
 
 
 
