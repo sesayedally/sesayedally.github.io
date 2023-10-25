@@ -7,3 +7,5 @@ The original dataset provided was free from Kaggle and scraped from VGChartz. I 
 
 
 [Link to article on LinkedIn](https://www.linkedin.com/pulse/numbers-game-how-quality-video-games-defy-quantity-sayed-ally)
+
+<img src="images/vgs.png?raw=true" width="550" height="300"/>
