@@ -1,11 +1,10 @@
 ## Portfolio
 
-[World Clock - React](/worldclock)
+[World Clock - React](/worldclock.md)
 
 Simple React app to display different timezones
 
-
-
+---
 
 [Quantity vs Quality in Video Games](/videogamesales)
 
