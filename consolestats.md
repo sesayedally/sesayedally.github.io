@@ -13,3 +13,6 @@ size visually for the 3 giants of video game consoles. Secondly, the Timeline vi
 [Kaggle Dataset](https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time) 
 
 [Video Console Sales Viz](https://public.tableau.com/views/VideoGameConsoleSales_16825339035950/VideoGameConsoles?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+<img src="images/consolesales.png?raw=true" width="400" height="300"/>
