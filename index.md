@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Autocompete - React](/autocomp.md)
+[Autocomplete - React](/autocomp.md)
 
 Autocomplete functionality for array list
 
