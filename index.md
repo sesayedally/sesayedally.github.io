@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Hospitality Revenue](/DataRev)
+[Hospitality Revenue](/DataRev.md)
 
 Power BI project for hospitality industry
 
