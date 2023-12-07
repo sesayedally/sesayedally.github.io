@@ -1,5 +1,11 @@
 ## Portfolio
 
+[Hospitality Revenue](/DataRev)
+
+Power BI project for hospitality industry
+
+---
+
 [Autocomplete - React](/autocomp.md)
 
 Autocomplete functionality for array list
