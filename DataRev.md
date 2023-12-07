@@ -3,16 +3,19 @@
 **Project description:** In this online course project, I have used datasets provided by codebasic to generate a dashboard that displays revenue information.
 
 
-<img src="images/MainShot.gif?raw=true" width="700" height="400"/>
+<img src="images/MainShot.gif?raw=true" width="500" height="400"/>
+[View Image](images/MainShot.gif)
 
-###Overview
+**Overview** <br>
 This project entailed creating a dashboard to meet the needs of a stakeholder that requested specific KPIs. The interview video basically spelled
 out the different metrics that are require. A crucial aspect of the entire process, understanding what the client requires and which data can be used
 to create the end result. In this instance, the hotel industry has specific ratios and KPIs that are required by management to create the desired dashboard.
 
 The dashboard preview below depicts the various KPIs that have been put together in one place for the client.
 
-<img src="images/dash-0.png?raw=true" width="700" height="400"/>
+<img src="images/dash-0.png?raw=true" width="500" height="400"/>
+
+[View Image](images/dash-0.png)
 
 Some of the key aspects that I have taken away from this project are the following:
 
@@ -26,6 +29,7 @@ Some of the key aspects that I have taken away from this project are the followi
 Managing relations <br>
 You will also observe the key measurements entity. In this case all the measures have been created here and are used to 
 create the different components of the dashboard.  <br>
-<img src="images/ERD-0.png?raw=true" width="700" height="350"/>
+<img src="images/ERD-0.png?raw=true" width="500" height="350"/>
+[View Image](images/ERD-0.png)
 
 
