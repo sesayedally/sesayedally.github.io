@@ -17,4 +17,3 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
-minimal_mistakes_skin:default
