@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/sayed-enayat-sayed-ally/">View My LinkedIn Profile</a> <br>
   <a href = "mailto:se.sayedally@gmail.com">Send Email </a>
   
-remote_theme: jekyll/minima
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 minima:
